@@ -1,2 +1,2 @@
 # A-Business-Web-Template
-![](5.png)
+![](5.jpg)
